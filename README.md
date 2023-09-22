@@ -18,6 +18,8 @@ CC-BY-SA 4.0, see attached [License.md](./License.md)
 ## Data
 [Describe the provenance of data used in the scripts contained and clarify how it is harvested and what other prerequisites are required to get the scripts working. In case of pure tool attribute any reused scripts to source, etc., license and specify any prerequisites or technical requirements. Provide information on data metadata and data used. Provide a link to a data repository or explanatory article.] 
 
+## Scripts
+[Describe what individual scripts do, provide links to them, and order them in a sequence they should run. Point to any issues or specific settings people should be aware of.]
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
