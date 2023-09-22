@@ -3,8 +3,12 @@
 ## About
 [In two to three sentences state the purpose of this repository, e.g., The purpose of this repository is to provide templates for all future PSN repositories in order to save precious time and maintain high standards and uniformity of our documentation.]
 
-## Authors
-* Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540)
+## Authors 
+[alphabetic order, change for specific project]
+
+* Tom Brughmans [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1589-7768), PSN, Aarhus University
+* Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540), PSN, Aarhus University
+* Matteo Mazzamurro [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-4454-1551), PSN, Aarhus University
 * [Name], [ORCID], [Institution], 
 * [Name], [ORCID], [Institution]
 * [Name], [ORCID], [Institution]
