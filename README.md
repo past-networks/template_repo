@@ -1,8 +1,8 @@
 # Meaningful title for the repository
 
 ![PSN_logo](./img/PSN_logo.png)
-![Aarhus_uni](./img/Aarhus_uni.png)
-![Carlsberg_logo](./img/Carlsberg_logo.png)
+![Aarhus_uni](./img/aulogo_uk_var2_blue.png)
+![Carlsberg_logo](./img/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png)
 
 
 ## Purpose
@@ -15,7 +15,7 @@
 * [Name], [ORCID], [Institution]
 
 ## Funding
-The Past Social Networks Projects is funded by the Carlsberg Foundation, Semper Ardens Accelerate in 2022-2026.
+*The Past Social Networks Projects* is funded by the Carlsberg Foundation, Semper Ardens Accelerate no. XXX in 2022-2026. 
 
 ## License
 CC-BY-SA 4.0, see attached [License.md](./License.md)
