@@ -37,8 +37,8 @@ TBA
 
 ---
 
-<img src="./img/PSN_logo.png" alt="PSNP logo" style="width:300px;height:auto;" align="left">
-<img src="./img/aulogo_uk_var2_blue.png" alt="Aarhus University logo" style="width:300px;auto;"align="right">
-<img src="./img/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" alt="Carlsberg Foundation logo" style="width:300px;height:auto;"align="center" >
+<img src="./img/PSN_logo.png" alt="PSNP logo" style="width:20%;height:auto;" align="left">
+<img src="./img/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" alt="Carlsberg Foundation logo" style="width:30%;height:auto;"align="center" >
+<img src="./img/aulogo_uk_var2_blue.png" alt="Aarhus University logo" style="width:30%;height:auto;"align="right">
 
 
